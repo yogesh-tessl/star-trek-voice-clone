@@ -1,6 +1,6 @@
 ---
 name: speak
-description: Speak a message out loud in the Star Trek Computer Voice through an external TTS service
+description: "Speak a message aloud in the Star Trek Computer Voice using ElevenLabs text-to-speech. Use when the user asks to read text aloud, say something out loud, announce a notification, or play voice output."
 argument-hint: [message to speak]
 disable-model-invocation: true
 allowed-tools: Bash

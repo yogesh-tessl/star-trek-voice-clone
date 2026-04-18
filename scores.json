@@ -1,0 +1,6 @@
+{
+  "repo": "jarombouts/star-trek-voice-clone",
+  "skills": [
+    { "name": "speak", "before": 75, "after": 95 }
+  ]
+}
